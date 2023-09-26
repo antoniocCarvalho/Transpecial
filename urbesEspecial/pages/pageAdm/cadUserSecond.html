@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="/style/cadastroAdm.css" />
+    <link type="text/css" rel="stylesheet" href="/style/navbar.css" />
+    <title>AGENDAMENTO - TRANSPORTE ESPECIAL</title>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="map">
+            <gmp-map
+          center="-23.51413345336914,-47.436763763427734"
+          zoom="14"
+          map-id="DEMO_MAP_ID"
+        >
+            <gmp-advanced-marker
+            position="-23.51413345336914,-47.436763763427734"
+            title="My location"
+          >
+          </gmp-advanced-marker>
+        </gmp-map>
+        </div>
+      <div class="navbarLogo">
+        <a href="/index.html">
+          <img src="/images/logoUrbes.png" alt="Logo Transpecial" />
+        </a>
+      </div>
+    </div>
+    <hr id="linhaNavBar"/>
+
+    <!-- formulario de agendamento -->
+    <div id="cadastroADM">
+        <h1>Dados complementares:</h1> 
+
+        <p> 
+            <label id="acompanha" for="acompanhante">Necessita acompanhante</label>
+        </p>    
+        
+        <select id="select" name="select">
+            <option value="sim" selected>Sim</option>
+            <option value="nao">Não</option>
+           
+        </select>
+
+        <p> 
+            <label id="cadeirante" for="cadeirante">Cadeirante</label>
+        </p>    
+        
+        <select id="select" name="select">
+            <option value="sim" selected>Sim</option>
+            <option value="nao">Não</option>
+           
+        </select>
+
+
+
+        <p> 
+                <label for="dataNasc">Data de Nascimento</label>
+                <input id="dataNasc" required="required" type="date"/>
+              </p>
+              
+              <p> 
+                <label id="telefone"for="telefone">Telefone</label>
+                <input id="telefone" required="required" type="email"/>
+              </p>
+
+              <p> 
+                <label id="email"for="email">email</label>
+                <input id="email" required="required" type="email"/>
+              </p>
+             
+
+              <p> 
+                <input id="logar" type="submit" value="Cadastrar" /> 
+              </p>
+
+    </div>
+
+
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyZqEN1pPEDMRxpArwKd-uRfMsYop9lEU&callback=console.debug&libraries=maps,marker&v=beta"></script>
+    <script src="../js/cep.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
+
+</body>
+</html>

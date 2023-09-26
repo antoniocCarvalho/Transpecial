@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="/style/agendar.css" />
+    <link type="text/css" rel="stylesheet" href="/style/navbar.css" />
+    <title>AGENDAMENTO - TRANSPORTE ESPECIAL</title>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="map">
+            <gmp-map
+          center="-23.51413345336914,-47.436763763427734"
+          zoom="14"
+          map-id="DEMO_MAP_ID"
+        >
+            <gmp-advanced-marker
+            position="-23.51413345336914,-47.436763763427734"
+            title="My location"
+          >
+          </gmp-advanced-marker>
+        </gmp-map>
+        </div>
+      <div class="navbarLogo">
+        <a href="/index.html">
+          <img src="/images/logoUrbes.png" alt="Logo Transpecial" />
+        </a>
+      </div>
+    </div>
+    <hr id="linhaNavBar"/>
+
+    <!-- formulario de agendamento -->
+    <div id="agendamento">
+        <h1>Faça seu agendamento:</h1> 
+              <p> 
+                <label for="cep">Digite o CEP</label>
+                <input id="cep" required="required" type="text" maxlength="9" placeholder=" 00000-000" />
+              </p>
+
+              <p> 
+                <label for="rua">RUA</label>
+                <input id="rua" required="required" type="text"  /> 
+              </p>
+              <p> 
+                <label for="num">NÚMERO</label>
+                <input id="num" required="required" type="number"  /> 
+              </p>
+              <p> 
+                <label for="bairro">BAIRRO</label>
+                <input id="bairro" required="required" type="text" /> 
+              </p>
+              <p> 
+                <label for="cidade">CIDADE</label>
+                <input id="cidade" required="required" type="text"  /> 
+              </p>
+              <p> 
+                <label for="estado">ESTADO</label>
+                <input id="estado" required="required" type="text"  /> 
+              </p>
+              
+                      <!-- <p> 
+                <input id="next" type="submit" value="PROXIMA" href="/pages/agendarSec.html" /> 
+                <p href="/pages/agendarSec.html">
+              </p> -->
+              <p id="butao" >
+                <a id="butN" href="/pages/agendamentoPages/agendarSec.html">AVANÇAR</a> 
+              </p>
+
+              <p id="link">
+                problemas para agendar?
+                <a href="/pages/pageUsuario/cadastrar.html">Suporte</a>
+              </p>
+              <div id="resultado">
+
+              </div>
+
+    </div>
+
+
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyZqEN1pPEDMRxpArwKd-uRfMsYop9lEU&callback=console.debug&libraries=maps,marker&v=beta"></script>
+    <script src="/js/cep.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
+
+</body>
+</html>

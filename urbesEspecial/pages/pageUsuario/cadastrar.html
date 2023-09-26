@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="/style/loginCad.css" />
+    <link type="text/css" rel="stylesheet" href="/style/navbar.css" />
+    <title>CADASTRO - TRANSPORTE ESPECIAL</title>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="map">
+            <gmp-map
+          center="-23.51413345336914,-47.436763763427734"
+          zoom="14"
+          map-id="DEMO_MAP_ID"
+        >
+            <gmp-advanced-marker
+            position="-23.51413345336914,-47.436763763427734"
+            title="My location"
+          >
+          </gmp-advanced-marker>
+        </gmp-map>
+        </div>
+      <div class="navbarLogo">
+        <a href="/index.html">
+          <img src="/images/logoUrbes.png" alt="Logo Transpecial" />
+        </a>
+      </div>
+    </div>
+    <hr id="linhaNavBar"/>
+
+    <!-- formulario de login/cadastro -->
+    <div id="cadastro">
+
+
+        <h1>Cadastro</h1> 
+        
+        <p> 
+          <label for="cadastro_nome">Seu nome</label>
+          <input id="cadastro_nome"  required="required" type="text" placeholder="Insira seu nome" />
+        </p>
+        
+        <p> 
+          <label for="cadastro_cpf">Seu CPF</label>
+          <input id="cadastro_cpf" required="required" type="email" maxlength="14" placeholder="---.---.---.--"/> 
+        </p>
+        
+        <p> 
+          <label for="senha_cadastro">Sua senha</label>
+          <input id="senha_cadastro" required="required" type="password" placeholder="1234"/>
+        </p>
+        
+        <p> 
+          <input id="cadastrar" type="submit" value="Cadastrar"/> 
+        </p>
+        
+        <p class="link">  
+          Já tem conta?
+          <a href="/pages/pageUsuario/login.html"> Ir para Login </a>
+
+
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyZqEN1pPEDMRxpArwKd-uRfMsYop9lEU&callback=console.debug&libraries=maps,marker&v=beta"></script>
+    <script src="/js/cadastro.js"></script>
+</body>
+</html>

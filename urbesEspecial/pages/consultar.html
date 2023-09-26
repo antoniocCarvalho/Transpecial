@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="/style/consultar.css" />
+    <link type="text/css" rel="stylesheet" href="/style/navbar.css" />
+    <title>CONSULTAR - TRANSPORTE ESPECIAL</title>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="map">
+            <gmp-map
+          center="-23.51413345336914,-47.436763763427734"
+          zoom="14"
+          map-id="DEMO_MAP_ID"
+        >
+            <gmp-advanced-marker
+            position="-23.51413345336914,-47.436763763427734"
+            title="My location"
+          >
+          </gmp-advanced-marker>
+        </gmp-map>
+        </div>
+      <div class="navbarLogo">
+        <a href="../index.html">
+          <img src="/images/logoUrbes.png" alt="Logo Transpecial" />
+        </a>
+      </div>
+    </div>
+    <hr id="linhaNavBar"/>
+
+
+    <!-- formulario de login/cadastro -->
+    <div id="consultar">
+        <h1>Consultar</h1> 
+              <p> 
+                <label for="consulte">Insira o codigo da viagem</label>
+                <input id="consulte" required="required" type="text" maxlength="" placeholder=""/>
+              </p>
+
+             
+              
+              <p> 
+                <input id="logar" type="submit" value="consulte" /> 
+              </p>
+
+              <p class="link">
+                Ainda não agendou uma viagem?
+                <a href="/pages/agendamentoPages/agendar.html">Agende</a>
+              </p>
+
+    </div>
+
+
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyZqEN1pPEDMRxpArwKd-uRfMsYop9lEU&callback=console.debug&libraries=maps,marker&v=beta"></script>
+</body>
+</html>
