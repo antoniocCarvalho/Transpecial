@@ -23,5 +23,11 @@ Aqui estão algumas tecnologias usadas neste projeto.
 ![login](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/login%2022.38.48.png)
 
 
-## 3- Deve realizar o agendamento da viagem na aba AGENDAR localizado na parte superior do início 
+## 3- Precisa realizar o agendamento da viagem na aba AGENDAR localizado na parte superior
 ![agenI](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/agendamentoI%2022.38.48.png)
+
+Após inserir o CEP, a API faz o trabalho preenchendo automaticamente restante dos dados
+
+
+## 4- O user deve inserir a data que gostaria de realizar a viagem, a causa, o destino e os horários de ida e o retorno da mesma.
+![agenII](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/agendamentoII%2022.38.48.png)
