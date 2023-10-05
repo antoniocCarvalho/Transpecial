@@ -13,7 +13,7 @@ Aqui estão algumas tecnologias usadas neste projeto.
 
 
 
-##Como usar
+## Como usar
 
 ### 1- Ao acessar, você vai ver a página inicial
 ![incio](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/inicial%2022.38.48.png)
