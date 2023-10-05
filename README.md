@@ -9,7 +9,9 @@ Transpecial é um programa inovador de transporte criado para atender às necess
 
 Aqui estão algumas tecnologias usadas neste projeto.
 
-*javascript
+*HTML
+*CSS
+*JavaScript
 
 
 
@@ -67,5 +69,8 @@ Após inserir o CEP, a API faz o trabalho preenchendo automaticamente restante d
 
 ## Responsáveis 
 
-  * **Antonio Carvalho** 
+  * **Anderson Pereira**
+  * **Antonio Carvalho**
+  * **Axel Alves**
+  * **Ingrid Kemily**
 
