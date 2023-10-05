@@ -24,7 +24,7 @@ Aqui estão algumas tecnologias usadas neste projeto.
 
 
 ### 2- Caso o usuário possua uma conta, basta inserir seu cpf e sua senha na aba LOGIN
-![login](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/login%2022.38.48.png)
+![login](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/login.png)
 
 Caso não tiver conta é necessário entrar em contato com o suporte, pois apenas pessoas autorizadas conseguem fazer cadastros
 
