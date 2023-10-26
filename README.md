@@ -44,31 +44,6 @@ https://github.com/antoniocCarvalho/Transpecial
 🔹 Informações Extras
 
 
-## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
-
-## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
-
-## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
-
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
-
-## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![html](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />)
-![css](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />)
-![javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
-![php](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />)
-
-## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
-
 ## Recursos de inseridos 🧰
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
@@ -79,9 +54,12 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+  * **Anderson Pereira**
+  * **Antonio Carvalho**
+  * **Axel Alves**
+  * **Ingrid Kemily**
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - Transpecial
