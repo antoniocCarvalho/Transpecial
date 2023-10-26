@@ -2,75 +2,86 @@
 
 ## Transpecial
 
+## Versão: 2.0
+## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+
+## Tópicos
+🔹 Descrição do projeto 
+
 Transpecial é um programa inovador de transporte criado para atender às necessidades de pessoas com deficiência.
 
-
-## Tecnologias
-
-Aqui estão algumas tecnologias usadas neste projeto.
-
-*HTML
-*CSS
-*JavaScript
+🔹 Funcionalidades
+✔️  Agendamentos de viagens 
+✔️  Consultas de viagens via ID
 
 
+🔹 Distribuição
+https://github.com/antoniocCarvalho/Transpecial
 
-## COMO USAR
+🔹 Pré-requisitos
 
-## Usuários 
+🔹 Como rodar a aplicação
 
-### 1- Ao acessar, você vai ver a página inicial
-![incio](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/inicial%2022.38.48.png)
+🔹 Testes realizados
 
+🔹 Banco de Dados
 
-### 2- Caso o usuário possua uma conta, basta inserir seu cpf e sua senha na aba LOGIN
-![login](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/login.png)
+🔹 Linguagens, dependências e libs utilizadas
 
-Caso não tiver conta é necessário entrar em contato com o suporte, pois apenas pessoas autorizadas conseguem fazer cadastros
+![html](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />)
+![css](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />)
+![javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
+![php](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />)
 
+🔹 Novas Recursos
 
-## 3- Precisa realizar o agendamento da viagem na aba AGENDAR localizado na parte superior da tela inicial
-![agenI](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/agendamentoI%2022.38.48.png)
+🔹 Resolvendo problemas
 
-Após inserir o CEP, a API faz o trabalho preenchendo automaticamente restante dos dados
+🔹 Recursos inseridos 
 
+🔹 Desenvolvedores/Contribuintes
 
-## 4- O user deve inserir a data que gostaria de realizar a viagem, a causa, o destino e os horários de ida e o retorno da mesma.
-![agenII](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/agendamentoII%2022.38.48.png)
-
-
-## 5- Agendamento concluído!! aqui é gereado um código único utilizado para consultar a viagem
-![agenIII](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/agendamentoIII%2022.38.48.png)
-
-## 6- Inserindo o codigo gerado acima, podemos consultar alguns status da viagem
-![consultar](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/consultar%2022.38.48.png)
+🔹 Informações Extras
 
 
+## Pré-requisitos ⚠️    
+Versão do Android; 
+SDK; 
+Aparelho utilizado para testes.
+- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
 
-## adm
+## Como rodar a aplicação 
+Explicação de como se deve utilizar o projeto.
 
-## 1- Realizar login utilizando o PORTAL DOS FUNCIONÁRIOS localizado no rodapé da pagina
+## Testes realizados
+Utilização de imagens e descrição do qeu foi testado.
 
-![loginADM](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/loginADM%2022.38.48.png)
+## Banco de Dados 🗂️
+Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
-## 2- Cadastros de usuários, aqui o adm vai preencher todos os dados necessários para concluir o cadastro
-![cadUserI](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/cadastroUserI%2022.38.48.png)
-![cadUserII](https://github.com/antoniocCarvalho/Transpecial/blob/main/img/cadastroUserII%2022.38.48.png)
+## Linguagens, dependencias e libs utilizadas 📚
+![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![html](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />)
+![css](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />)
+![javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
+![php](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />)
 
-## Características
+## Resolvendo Problemas 
+Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
-## Links
-- Repositório : https://github.com/antoniocCarvalho/Transpecial
+## Recursos de inseridos 🧰
+Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
-## Versão 
+📝 Tarefa 1
 
-  1.0v
+📝 Tarefa 2
 
+📝 Tarefa 3
 
-## Responsáveis 
+## Desenvolvedores/Contribuintes:
+Liste o time responsável pelo desenvolvimento do projeto
 
-  * **Anderson Pereira**
-  * **Antonio Carvalho**
-  * **Axel Alves**
-  * **Ingrid Kemily**
+## Licença
+The MIT License (MIT)
 
+## Copyright ©️ Ano - Titulo do Projeto
