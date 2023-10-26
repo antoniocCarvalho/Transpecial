@@ -11,8 +11,8 @@
 Transpecial é um programa inovador de transporte criado para atender às necessidades de pessoas com deficiência.
 
 🔹 Funcionalidades
-✔️  Agendamentos de viagens 
-✔️  Consultas de viagens via ID
+✔️ **Agendamentos de viagens** 
+✔️  **Consultas de viagens via ID**
 
 
 🔹 Distribuição
