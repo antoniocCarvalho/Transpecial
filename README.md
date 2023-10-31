@@ -3,8 +3,7 @@
 ## Transpecial
 
 ## Versão: 2.0
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
-
+## Status do Projeto: em Desenvolvimento 🚨  
 
  🔹 Descrição do projeto 
 
@@ -42,6 +41,10 @@ https://github.com/antoniocCarvalho/Transpecial
 🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
+ * **Anderson Pereira**
+  * **Antonio Carvalho**
+  * **Axel Alves**
+  * **Ingrid Kemily**
 
 🔹 Informações Extras
 
