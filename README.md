@@ -2,7 +2,7 @@
 
 ## Transpecial
 
-## Versão: 2.0
+## Versão: 1.0
 ## Status do Projeto: em Desenvolvimento 🚨  
 
  🔹 Descrição do projeto 
@@ -89,8 +89,8 @@ https://github.com/antoniocCarvalho/Transpecial
 🔹 Resolvendo problemas
 
 🔹 Recursos inseridos 
-1-  "https://brasilapi.com.br/api/cep/v1/"  uma api que faz uma requisição de um CEP específico e retorna dados, como estado, cidade e rua 
-2- api do google foi utilizada para realizar a rota da viagem de forma automática, inserindo-a na tela
+1.  "https://brasilapi.com.br/api/cep/v1/"  uma api que faz uma requisição de um CEP específico e retorna dados, como estado, cidade e rua 
+2. api do google foi utilizada para realizar a rota da viagem de forma automática, inserindo-a na tela
 
 🔹 Desenvolvedores/Contribuintes
  * **Anderson Pereira**
