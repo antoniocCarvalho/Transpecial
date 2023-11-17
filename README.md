@@ -85,8 +85,7 @@ https://github.com/antoniocCarvalho/Transpecial
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 🔹 Novas Recursos
-
-🔹 Resolvendo problemas
+- Roterizador em tempo real
 
 🔹 Recursos inseridos 
 1.  "https://brasilapi.com.br/api/cep/v1/"  uma api que faz uma requisição de um CEP específico e retorna dados, como estado, cidade e rua 
